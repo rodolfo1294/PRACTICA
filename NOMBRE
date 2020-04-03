@@ -1,0 +1,9 @@
+<!DOCTYPE html PUBLIC >
+<HTML>
+<SCRIPT LANGUAGE="JavaScript">
+//PROG002.HTM
+var nom;
+nom=prompt(" Escribe tu nombre ", " fito ");
+alert(" Mucho gusto "+ nom);
+</SCRIPT>
+</HTML>
